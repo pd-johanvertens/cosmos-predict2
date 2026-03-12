@@ -41,7 +41,7 @@ dependencies = [
   "boto3==1.38.31",
   "decord==0.6.0",
   "diffusers==0.33.1",
-  "einops==0.8.1",
+  "einops>=0.8.1",
   "ftfy==6.3.1",
   "fvcore==0.1.5.post20221221",
   "h11==0.16.0",
