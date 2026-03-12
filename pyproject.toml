@@ -55,7 +55,7 @@ dependencies = [
   "megatron-core==0.12.1",
   "modelscope==1.26.0",
   "nltk==3.9.1",
-  "numpy>=1.26.4",
+  "numpy",
   "nvidia-ml-py==12.535.133",
   "omegaconf==2.3.0",
   "opencv-python==4.11.0.86",
