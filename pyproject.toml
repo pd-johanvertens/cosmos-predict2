@@ -75,7 +75,7 @@ dependencies = [
   "termcolor==3.1.0",
   "tqdm==4.66.5",
   "transformers==4.51.3",
-  "triton==3.2.0",
+  "triton==3.5.1",
   "webdataset==0.2.111",
 ]
 
